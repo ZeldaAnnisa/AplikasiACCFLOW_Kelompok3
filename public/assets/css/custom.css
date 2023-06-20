@@ -1,6 +1,6 @@
 /* Custom Theme */
 body[data-topbar=dark] #page-topbar {
-    background-color: #282e3f;
+    background-color: #4F709C;
 }
 #page-topbar {
     -webkit-box-shadow: none;
@@ -13,7 +13,7 @@ body[data-topbar=dark] #page-topbar {
     margin-top: 60px;
 }
 .bg-main {
-    background-color: #2a3042;
+    background-color: #19A7CE;
 }
 .alert li {
     list-style: none;
